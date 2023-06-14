@@ -1,8 +1,28 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+![](pdsDarkRed.png){width=25%}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This semester you are conducting a quantitative project using an NSF-funded curriculum, [Passion Driven Statistics](https://passiondrivenstatistics.wescreates.wesleyan.edu). This is a set of tutorials---text and video---to support your work. My goal has been to keep these tutorials as simple as possible. You may need to go beyond these tutorials to conduct your research. I am here to help. Along the way you will learn to:
+
+- manage your data
+- explore your data through graphs (or in R terms plot your data)
+- test hypotheses using your data
+
+**This is a first draft. I ask that as you use these tutorials, you will note errors and suggest improvements.**
+
+In addition to Passion Driven Statistics, these tutorials borrow from the following:
+
+- [Data Carpentry](https://datacarpentry.org/R-ecology-lesson/index.html)
+
+- [Modern Dive](https://moderndive.com)
+
+- [The PowerMutt Project](https://www.cpp.edu/~jlkorey/POWERMUTT/index.html)
+
+- [RLadies Sydney](https://rladiessydney.org/courses/ryouwithme/)
+
+And a big thanks to Ed Beck of the SUNY Oneonta TLTC for getting this project moving and for all of his good advice—that I sometimes ignore to my detriment—since the pandemic began. 
+
+![](pdsTeal.png){width=10%}
 
 ```{r}
 1 + 1

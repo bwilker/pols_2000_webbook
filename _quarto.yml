@@ -2,9 +2,11 @@ project:
   type: book
 
 book:
-  title: "POLS 2000 Webbook"
+  title: "POLS 2000 Webbook 2.0"
   author: "Bill Wilkerson"
-  date: "6/13/2023"
+  date: "last-modified"
+
+
   chapters:
     - index.qmd
     - intro.qmd
@@ -17,6 +19,7 @@ format:
   html:
     theme: simplex
     toc: true
+    title-block-banner: true
   pdf:
     documentclass: scrreprt
 
